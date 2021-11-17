@@ -15,14 +15,6 @@ pids
 # IDE
 .vscode
 
-# Docker (experimental)
-docker/
-Dockerfile
-.dockerignore
-docker-compose.yml
-docker-compose.config.yml
-docker-compose.config.example.yml
-
 # Tests
 coverage/
 jest-setup.ts
